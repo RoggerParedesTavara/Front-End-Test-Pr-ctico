@@ -1,0 +1,57 @@
+{
+    "author": {
+        "name": "Rogger Aldair",
+        "lastname": "Paredes Tavara"
+    },
+    "categories": ["Phone", "Iphone", "64Gb"],
+    "items": [
+        {
+            "id": "MLA1389203819",
+            "title": "Aple Whatch",
+            "price": {
+                "currency": "ARS",
+                "amount": 10000,
+                "decimals": 343
+            },
+            "picture": "http://http2.mlstatic.com/D_737242-MLA53023856462_122022-I.jpg",
+            "condition": "new",
+            "free_shipping": false
+        },
+        {
+            "id": "2",
+            "title": "Aple Whatch",
+            "price": {
+                "currency": "ARS",
+                "amount": 10000,
+                "decimals": 343
+            },
+            "picture": "http://http2.mlstatic.com/D_737242-MLA53023856462_122022-I.jpg",
+            "condition": "new",
+            "free_shipping": false
+        },
+        {
+            "id": "3",
+            "title": "Aple Whatch",
+            "price": {
+                "currency": "ARS",
+                "amount": 10000,
+                "decimals": 343
+            },
+            "picture": "http://http2.mlstatic.com/D_737242-MLA53023856462_122022-I.jpg",
+            "condition": "new",
+            "free_shipping": false
+        },
+        {
+            "id": "4",
+            "title": "Aple Whatch",
+            "price": {
+                "currency": "ARS",
+                "amount": 10000,
+                "decimals": 343
+            },
+            "picture": "http://http2.mlstatic.com/D_737242-MLA53023856462_122022-I.jpg",
+            "condition": "new",
+            "free_shipping": false
+        }
+    ]
+}
